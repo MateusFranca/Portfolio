@@ -9,9 +9,9 @@ export default function App() {
         bio="Full-stack javascript developer at Tarrafada."
         email="mateuscunha0220@gmail.com"
         phone="+5569999768533"
-        githubUrl="https://github.com/"
-        linkedinUrl="https://www.linkedin.com/"
-        twitterUrl="https://twitter.com/i/flow/login"
+        githubUrl="https://github.com/MateusFranca"
+        linkedinUrl="https://www.linkedin.com/in/mateusfrancadacunha/"
+        instagramUrl="https://www.instagram.com/1mol_de_mateus/?next=%2F"
       ></Profile>
     </div>
   );

@@ -13,7 +13,7 @@ export default function Profile(props)
       <div className={styles.links}>
         <a  href={props.githubUrl} target="_blank">GitHub</a>
         <a href={props.linkedinUrl} target="_blank">Linkedin</a>
-        <a  href={props.twitterUrl} target="_blank">Twitter</a>
+        <a  href={props.instagramUrl} target="_blank">Instagram</a>
       </div>
     </div>
   )
